@@ -1,10 +1,10 @@
   
-name: Deploy to GitHub Pages (vue)
+name: Deploy to GitHub Pages (vuejs)
 
 on:
   push:
     branches:
-      - main
+      - deploy
 
 permissions:
   contents: read
