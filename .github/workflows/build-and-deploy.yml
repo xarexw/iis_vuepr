@@ -4,7 +4,7 @@ name: Deploy to GitHub Pages (vue)
 on:
   push:
     branches:
-      - main
+      - deploy
 
 permissions:
   contents: read
